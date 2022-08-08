@@ -1,4 +1,9 @@
-### Hi there 👋
+# Halo semua! 
+Perkenalkan nama saya **Elsa Syakira**.\
+Saya seorang mahasiswa yang belajar di **Pengembangan Front-End Web dan React** di [Dicoding](https://www.dicoding.com/).\
+Saya lulus dari kelas pengenalan ke logika pemrograman [sertifikasi dari Dicoding Academy](https://sertifikat_course_302_2386205_030822193446.pdf).\
+Saya juga telah lulus dari kelas memulai dasar pemrograman untuk menjadi pengembang software [sertifikasi dari Dicoding Academy](https://sertifikat_course_237_2386205_060822192044.pdf).\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/elsa-syakira/)ku ya.
 
 <!--
 **elsasyakira/elsasyakira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
