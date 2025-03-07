@@ -1,6 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Elsa Syakira**.\
-Saya seorang mahasiswa yang belajar di **Pengembangan Front-End Web dan React** di [Dicoding](https://www.dicoding.com/).\
+Saya merupakan lulusan S1 Sistem Informasi yang belajar di **Universitas Kuningan** 
+Saya juga merupakan lulusan Studi Independent **Pengembangan Front-End Web dan React** di [Dicoding](https://www.dicoding.com/).\
 Saya lulus dari kelas pengenalan ke logika pemrograman [sertifikasi dari Dicoding Academy](https://sertifikat_course_302_2386205_030822193446.pdf).\
 Saya juga telah lulus dari kelas memulai dasar pemrograman untuk menjadi pengembang software [sertifikasi dari Dicoding Academy](https://sertifikat_course_237_2386205_060822192044.pdf).\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/elsa-syakira/)ku ya.
